@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\gry\Testy_jednostkowe\TestyJednostkowe\TestyJednostkowe\main.cpp(8,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/main.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\TestyJednostkowe\main.cpp(8,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\TestyJednostkowe\main.cpp(8,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\TestyJednostkowe\main.cpp(8,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
+  MergeSort.cpp
+C:\gry\Testy_jednostkowe\TestyJednostkowe\TestyJednostkowe\MergeSort.cpp(38,1): error C1010: Nieoczekiwany koniec pliku podczas wyszukiwania prekompilowanego pliku nagłówkowego. Czy zapomniano dodać „#include "pch.h"” do źródła?
+  Generowanie kodu...

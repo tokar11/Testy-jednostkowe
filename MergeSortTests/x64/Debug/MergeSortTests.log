@@ -1,0 +1,183 @@
+﻿  MergeSortTests.cpp
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(8,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(8,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(8,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(8,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(14,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(14,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(14,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(14,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(20,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(20,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(20,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(20,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(26,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(26,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(26,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(26,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(32,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(32,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(32,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(32,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(38,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(38,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(38,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(38,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(44,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(44,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(44,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(44,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(50,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(50,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(50,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(50,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(56,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(56,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(56,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(56,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(62,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(62,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(62,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(62,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(68,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(68,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(68,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(68,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(76,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(76,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(76,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(76,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(88,5): error C2653: "MergeSort": nie jest nazwą klasa lub nazwą przestrzeni nazw
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+  
+C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(88,16): error C2672: „sort”: nie znaleziono zgodnej przeciążonej funkcji
+  (kompilowanie pliku źródłowego „/MergeSortTests.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      może to być „void std::sort(const _RanIt,const _RanIt)”
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(88,16):
+          „void std::sort(const _RanIt,const _RanIt)”: oczekuje 2 argumentów — podano 1
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      lub       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+          C:\gry\Testy_jednostkowe\TestyJednostkowe\MergeSortTests\MergeSortTests.cpp(88,16):
+          „void std::sort(const _RanIt,const _RanIt,_Pr)”: oczekuje 3 argumentów — podano 1
+  
